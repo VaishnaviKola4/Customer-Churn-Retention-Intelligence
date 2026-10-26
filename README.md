@@ -23,8 +23,6 @@ Subscription-based and Software-as-a-Service (SaaS) businesses operate in an inc
 
 An enterprise-grade, AI-powered system designed for subscription businesses facing increasing churn rates. Built with causal ML diagnostics, predictive ensemble algorithms, unsupervised customer clustering, automated Voice-of-Customer NLP, and an algorithmic retention recommendation engine.
 
-Inspired by modular, production-ready AI workflows (such as [amazon-marketing-budget-optimizer](https://github.com/veerenkumar/amazon-marketing-budget-optimizer)), this platform bridges predictive modeling with operational business decisions.
-
 ---
 
 ## 🌟 Executive Summary & Problem Context
